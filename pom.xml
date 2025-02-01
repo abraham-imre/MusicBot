@@ -39,17 +39,11 @@
 
     <dependencies>
         <!-- Discord Dependencies -->
-        <dependency>
-            <groupId>net.dv8tion</groupId>
-            <artifactId>JDA</artifactId>
-            <version>4.4.1_353</version>
-        </dependency>
-        <dependency>
-            <groupId>com.jagrosh</groupId>
-            <artifactId>jda-utilities</artifactId>
-            <version>3.0.5</version>
-            <type>pom</type>
-        </dependency>
+	<dependency>
+	    <groupId>net.dv8tion</groupId>
+	    <artifactId>JDA</artifactId>
+	    <version>5.2.3</version> 
+	</dependency>
 
         <!-- Music Dependencies -->
         <dependency>
